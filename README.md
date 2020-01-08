@@ -5,12 +5,11 @@ Photometric stereo is a method that estimates an object’s surface depth and or
 
 ## Prerequisites
 
-```
-cv2
-screeninfo
-mayavi
-mpl_toolkits
-```
+- cv2
+- screeninfo
+- mayavi
+- mpl_toolkits
+
 
 ## Usage 
 
