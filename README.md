@@ -24,7 +24,6 @@ and input as prompted.
 see the [LICENSE.md](LICENSE.md) file for details
 
 ## References 
-
 This project is generally implemented based on:
 1. Schindler, Photometric Stereo via Computer Screen Lighting for Real-time Surface Reconstruction. (2008)
 2. H. Hideki, “Photometric stereo under a light-source with arbitrary motion”(1994)
@@ -32,3 +31,4 @@ This project is generally implemented based on:
 illumination: Shape and albedo from multiple images using SVD and integrability”(1999)
 4. V. Nozick, I. Daribo, and H. Saito, “Gpu-based photometric reconstruction from screen light” (2008)
 5. V. Nozick, “Pyramidal Normal Map Integration for Real-time Photometric Stereo”(2010)
+For more detailed report on the implementation contact me
