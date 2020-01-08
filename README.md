@@ -31,4 +31,5 @@ This project is generally implemented based on:
 illumination: Shape and albedo from multiple images using SVD and integrability”(1999)
 4. V. Nozick, I. Daribo, and H. Saito, “Gpu-based photometric reconstruction from screen light” (2008)
 5. V. Nozick, “Pyramidal Normal Map Integration for Real-time Photometric Stereo”(2010)
+
 For more detailed report on the implementation contact me
