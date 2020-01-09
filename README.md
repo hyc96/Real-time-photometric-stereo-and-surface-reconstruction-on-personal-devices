@@ -33,3 +33,6 @@ illumination: Shape and albedo from multiple images using SVD and integrability�
 5. V. Nozick, “Pyramidal Normal Map Integration for Real-time Photometric Stereo”(2010)
 
 Contact me for more detailed report on the implementation.
+
+## Contact
+[My email](huaiyuc@seas.upenn.edu)
