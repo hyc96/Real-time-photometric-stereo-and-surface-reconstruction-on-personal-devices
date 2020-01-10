@@ -22,12 +22,15 @@ and input as prompted.
 ## Example
 
 - Sample object:
+
 ![alt text](https://github.com/hyc96/Real-time-photometric-stereo-and-surface-reconstruction-on-personal-devices/blob/master/example/sample_object.png)
 
 - Initial estimate:
+
 ![alt text](https://github.com/hyc96/Real-time-photometric-stereo-and-surface-reconstruction-on-personal-devices/blob/master/example/estimate.png)
 
 - Output:
+
 ![alt text](https://github.com/hyc96/Real-time-photometric-stereo-and-surface-reconstruction-on-personal-devices/blob/master/example/out.png)
 
 ## License
