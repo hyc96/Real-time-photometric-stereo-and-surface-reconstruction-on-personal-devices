@@ -49,4 +49,4 @@ illumination: Shape and albedo from multiple images using SVD and integrabilityâ
 Contact me for more detailed report on the implementation.
 
 ## Contact
-huaiyuc@seas.upenn.edu
+hyca70@gmail.com
